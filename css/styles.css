@@ -58,7 +58,264 @@ table {
 }
 
 .container {
-    width: 1025px;
+    width: 1024px; 
     background-color: #d4e9e7;
     margin: 0 auto;
 }
+
+header .container{
+    position: relative;
+}
+
+ header .container h1 {
+
+ }
+
+ h1{
+    position: absolute;
+    top: 58%;
+    left: -1px;
+    width: 100%;
+    text-align: center;  
+  }
+  .container{
+    position: relative;
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+  img{
+    width: 100%;
+  }
+
+  h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 63px;
+    
+   
+  }
+
+  a{
+    display: inline-block;
+    width: 328px;
+    height: 40px;  
+    position: relative;
+    left: 143px;
+    bottom: -10px;
+  }
+
+  a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+  }
+
+  a{
+    font-size: 26px;
+    text-decoration: none
+    
+  }
+
+  .box{
+    width: 1px;
+    height: 45px;
+    
+}
+  .red{
+    background: black;
+    position: relative;
+    left: 340px;
+    bottom: 75px;
+}
+.blue{
+  background: black;
+  position: relative;
+  left: 683px;
+  bottom: 120px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 36px;
+    position:  relative;
+    bottom: -45px;
+    
+     
+}
+h2{
+    left: 9px;
+    font-weight: 500;
+}
+
+    
+.container {
+    width: 1024px;
+}
+
+.imgfortext img{
+    width: 25%;
+    bottom: 30px;
+    position: relative;
+    float: left;
+    left: 10px;
+    margin-right: 30px;
+    margin-bottom: 3%;
+
+}
+
+.paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    bottom: 33px;
+    font-size: 16px;
+    line-height: 23px;
+    position: relative;
+    margin-right: 7px;
+    margin-left: 10px;
+    
+    
+}
+/*formatting for the comment section*/
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 28px;
+    margin-top: 35px;
+    margin-bottom: 18px;
+}
+li{
+    color: black;
+    list-style-type: disc;
+    margin-left: 18px;
+    font-size: 16px;
+    line-height: 15px;
+    
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-size: 28px;
+    margin-top: 32px;
+    margin-bottom: 15px;
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 19px;
+    margin-left: 28px;
+    
+}
+input{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+h6{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 19px;
+    margin-left: 28px; 
+}
+.containerformessage{
+    font-family: Arial, Helvetica, sans-serif;
+   color: black; 
+   font-size: 19px;
+   margin-left: 28px;
+   
+}
+.containerforbuttons{
+    font-family: Arial, Helvetica, sans-serif;
+   color: black; 
+   font-size: 21px;
+   margin-left: 28px;
+   margin-bottom: 23px;
+   margin-top: 10px;
+}
+.buttons{
+        font-family: Arial, Helvetica, sans-serif;
+       color: black; 
+       font-size: 15px;
+   
+    }
+input[type="radio"] {
+        margin-left: 5px;
+        margin-right: -20px;
+
+      }
+label{
+        margin-left: 28px;
+        left: 10px;
+    }
+
+.line{
+    border-style: solid;
+    border-width: 1px;
+    width: 35px;
+    font-size: smaller;
+    margin-left: 28px;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+.green{
+    background: black;
+    position: relative;
+    left: 15px;
+    bottom: 480px;
+    height: 500px;
+    
+}
+.yellow{
+    background: black;
+    position: relative;
+    left: 1000px;
+    bottom: 980px;
+    height: 500px;
+    
+
+}
+.black{
+    background: black;
+    position: relative;
+    left: 15px;
+    bottom: 980px;
+    height: 1px;
+    width: 986px;
+    margin-bottom: -900px;
+   
+
+}
+.white{
+    background: transparent;
+    position: relative;
+    left: 25px;
+    bottom: 1450px;
+    height: 1px;
+    width: 985px;
+
+
+}
+.containercopyright{
+    font-size: larger;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 40px;
+    margin-left: 867px;
+}
+h4{
+    border-width: 1px;
+    border-style: solid;
+    bottom: 1450px;
+    height: 1px;
+    width: 985px; 
+    margin-left: 5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    bottom: 90px;
+    padding-bottom: 50px;
+}
+
+/*css complete*/
+
+
+
+
